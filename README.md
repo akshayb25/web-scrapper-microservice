@@ -2,7 +2,7 @@ A lambda function service to scrap the provided url and return og metadata if fo
 
 Installation: Follow steps mentioned below to run the service locally.
 
-1. Clone: 
+1. Clone: https://github.com/akshayb25/web-scrapper-microservice.git
 
 2. Install dependencies: npm install
 
